@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "raj",
+      "lastName": "raj@test.com",
+      "email": "12345689",
+      "mobile": "123237",
+      "salary": "56000"
+    },
+    {
+      "id": 5,
+      "firstName": "Sam",
+      "lastName": "Morgan",
+      "email": "sam@test.com",
+      "mobile": "234567",
+      "salary": "67000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Aditya Rana",
+      "email": "aditya@test.com",
+      "password": "1234567890",
+      "mobile": 8828284438,
+      "id": 1
+    },
+    {
+      "fullname": "Jack Ryan",
+      "email": "jack@test.com",
+      "password": "12345",
+      "mobile": 1234567890,
+      "id": 2
+    },
+    {
+      "fullname": "Harry Owens",
+      "email": "harry@test.com",
+      "password": "12345",
+      "mobile": 38274628,
+      "id": 3
+    },
+    {
+      "fullname": "Harry Owens",
+      "email": "harry@test.com",
+      "password": "12345",
+      "mobile": 38274628,
+      "id": 4
+    },
+    {
+      "fullname": "nachiket",
+      "email": "nac@test.com",
+      "password": "123",
+      "mobile": 123456,
+      "id": 5
+    },
+    {
+      "fullname": "nachiket",
+      "email": "nac@test.com",
+      "password": "123",
+      "mobile": 123456,
+      "id": 6
+    }
+  ]
+}
